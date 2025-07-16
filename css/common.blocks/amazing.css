@@ -13,7 +13,7 @@
     transform: translatey(-50%);
     background-color: #fafafa;
     min-height: 360px;
-    width: 100%;
+    max-width: 100%;
     z-index: 3;
 
 }
